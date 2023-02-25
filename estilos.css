@@ -1,13 +1,15 @@
 body{
     background-color: #ffdc00; 
-   background: url("LULO-STUDIO-7.png");
+    background: url(LULO-STUDIO-7.png);
+   background-size: 500px 600px;
    }
     .texto{
         background:#ffffff8c;
+        font-family: "Helvetica";
       border:solid;
-      margin: 0 auto;
+      font-family: Arial, Helvetica, sans-serif;
       font-size: 200%;
-      font-family:Arial, Helvetica, sans-serif ;
+      margin: 0 auto;
       padding:2em;
       width: 50%;
     }
